@@ -1,0 +1,64 @@
+body{
+    background-image: url(../assets/images/Background\ image.avif);
+    background-size: auto;
+}
+a{
+    color: black;
+}
+a:visited{
+    color: rgb(97, 6, 244);
+}
+a:hover{
+    color: palegreen;
+}
+
+.headcenter{
+    text-align:center;
+    top: 10px;
+    right: 5px;
+    left: 5px;
+    height: 130;
+    padding-bottom: 40px;
+}
+.mainbody{
+    top: 160px;
+    right: 5px;
+    left: 5px;
+    bottom: 50px;
+    padding-bottom: 20px;
+}
+
+.Footer{
+    bottom: 5px;
+    right: 5px;
+    left: 5px;
+    height: 50px;
+}
+.border{
+    border-top: 3px;
+    border-style: solid;
+    border-color: black;
+}
+.linkedin{
+    padding-left: 297px;
+    padding-bottom: 15px;
+}
+.contact{
+    padding-bottom: 5px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+.copyright{
+    text-align: center;
+}
+.pagelinks1{
+    padding-left: 900px;
+}
+.pagelinks2{
+    padding-left: 5px;
+}
+.ptag{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
